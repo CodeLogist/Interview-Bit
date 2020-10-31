@@ -1,5 +1,5 @@
-# [Interviewbit](interviewbit.com) solutions
-* [My interviewbit profile](https://www.interviewbit.com/profile/royalpranjal)
+# [Interviewbit](https://www.interviewbit.com) solutions
+* [My interviewbit profile](https://www.interviewbit.com/profile/nfsvondiovojfoinwjvnrosiv)
 
 ## General Information
 The repository contains solutions to various [problems](https://www.interviewbit.com/dashboard/) on interviewbit. The code is merely a snippet (as solved on InterviewBit) & hence is not executable in a c++ compiler.
