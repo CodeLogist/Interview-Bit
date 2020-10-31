@@ -1,4 +1,4 @@
-# [Interviewbit](https://www.interviewbit.com) solutions
+# [Interviewbit](interviewbit.com) solutions
 * [My interviewbit profile](https://www.interviewbit.com/profile/royalpranjal)
 
 ## General Information
